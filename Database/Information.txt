@@ -1,1 +1,2 @@
-This Directory provides the database information
+This Directory provides the database information.
+The database structure is as follows
