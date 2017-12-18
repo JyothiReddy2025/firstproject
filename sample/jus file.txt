@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-jus checking how branch works
-=======
-Just checking how branch works
->>>>>>> origin/third-branch
