@@ -1,1 +1,4 @@
 There are many terminologies in GIT
+1. Stash
+2. tag
+3. commit
